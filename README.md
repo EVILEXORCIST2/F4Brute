@@ -10,7 +10,7 @@
 > python kit.py
 
 
-### INSTALLATION [ WINDOWS ]
+### INSTALLATION [ Linux ]
 > git clone https://github.com/EVILEXORCIST2/F4Brute.git
 
 > cd F4Brute
@@ -23,4 +23,11 @@
 * Ubuntu - 24.04 (version)
 * Arch Linux
 * Termux App
-* Git bash 
+* Git bash
+
+### PREREQUISITES
+* Python
+* Git
+
+### LANGUAGE
+* Python
